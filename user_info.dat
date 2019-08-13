@@ -1,0 +1,30 @@
+{
+   "123": {
+      "Name": "啊啊啊",
+      "Pwd": "123",
+      "Level": 1,
+      "Money": 1,
+      "IsVIP": false
+   },
+   "admin": {
+      "Name": "管理员",
+      "Pwd": "admin",
+      "Level": 10,
+      "Money": 100018,
+      "IsVIP": true
+   },
+   "asdf": {
+      "Name": "蔡徐坤",
+      "Pwd": "asdf",
+      "Level": 10,
+      "Money": 66,
+      "IsVIP": true
+   },
+   "ligongzzz": {
+      "Name": "御坂10032号",
+      "Pwd": "18970816980xz",
+      "Level": 1,
+      "Money": 3,
+      "IsVIP": false
+   }
+}
